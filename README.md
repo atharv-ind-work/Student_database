@@ -4,7 +4,7 @@
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-Linked%20List-6A5ACD)
 ![Memory](https://img.shields.io/badge/Memory-Dynamic%20Allocation-critical)
 ![Interface](https://img.shields.io/badge/Interface-CLI-lightgrey)
-![Status](https://img.shields.io/badge/Status-Stable-success)
+
 
 ---
 
